@@ -5,14 +5,11 @@ PhotoMap: Personalized map-based photography assistant and archive. Users can up
 
 
 ## 2. Specifications
-### **2.1. Use-Case Diagram**
-<!-- ![Alt text](images/use_case.drawio.png) --> 
-<img src="images/use_case.drawio.png" alt="Alt text" width="500">
 
-### **2.2. Actors Description**
+### **2.1. Actors Description**
 1. **Indie photographers (User)**: take photos and update locations with photos; receive recommendation of places of interests, as well as sharing their photos for other photos. 
 
-### **2.3. Functional Requirements**
+### **2.2. Functional Requirements**
 <a name="fr1"></a>
 
 1. **Log In** 
